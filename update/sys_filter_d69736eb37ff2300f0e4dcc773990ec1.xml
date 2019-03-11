@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="incident">active=true^sys_tags.68857e6b37ff2300f0e4dcc773990e9c=68857e6b37ff2300f0e4dcc773990e9c^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_table="label" display_value="EIT" endquery="false" field="sys_tags.68857e6b37ff2300f0e4dcc773990e9c" goto="false" newquery="false" operator="=" or="false" value="68857e6b37ff2300f0e4dcc773990e9c"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group display_value="Service Desk" name="Service Desk">d625dccec0a8016700a222a0f7900d06</group>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>kevin.edd</sys_created_by>
+        <sys_created_on>2019-03-01 14:52:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d69736eb37ff2300f0e4dcc773990ec1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Infinity Testing</sys_name>
+        <sys_package display_value="NeedIt" source="x_319395_needit">41be60df37732300f0e4dcc773990e98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">41be60df37732300f0e4dcc773990e98</sys_scope>
+        <sys_update_name>sys_filter_d69736eb37ff2300f0e4dcc773990ec1</sys_update_name>
+        <sys_updated_by>kevin.edd</sys_updated_by>
+        <sys_updated_on>2019-03-01 14:52:29</sys_updated_on>
+        <table>incident</table>
+        <title>Infinity Testing</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=d69736eb37ff2300f0e4dcc773990ec1"/>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,query_hints=true,hasLabels=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="60" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="HDD Model" max_length="40" name="x_319395_needit_hdd_model" type="string"/>
+    </element>
+</database>
